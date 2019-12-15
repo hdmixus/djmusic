@@ -1,0 +1,18 @@
+{
+  "/secure": {
+    "target": "https://hdmix.vn",
+    "secure": false
+  },
+  "/storage": {
+    "target": "https://hdmix.vn",
+    "secure": false
+  },
+  "/client/assets/images": {
+    "target": "https://hdmix.vn",
+    "secure": false
+  },
+  "/__clockwork": {
+    "target": "https://hdmix.vn/public",
+    "secure": false
+  }
+}
